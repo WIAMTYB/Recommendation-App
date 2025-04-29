@@ -10,10 +10,10 @@ Ce projet est une application qui permet de recommander des OPCVM aux clients se
 ## 📸 Aperçu
 Voici un aperçu de l’application en action :
 
-![Home page ](resources/images/home.png)
-![Registration page ](resources/images/registration.png)
-![Login page ](resources/images/login.png)
-![List OPCVM ](resources/images/list.png)
-![Rendement ](resources/images/Chart.png)
+![Home page ](resources/images/home.png){width=400px}
+![Registration page ](resources/images/registration.png){width=400px}
+![Login page ](resources/images/login.png){width=400px}
+![List OPCVM ](resources/images/list.png){width=400px}
+![Rendement ](resources/images/Chart.png){width=400px}
 
 
