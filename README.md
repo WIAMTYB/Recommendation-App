@@ -13,7 +13,7 @@ Voici un aperçu de l’application en action :
 ![Home page ](resources/images/home.png)
 ![Registration page ](resources/images/registration.png)
 ![Login page ](resources/images/login.png)
-![List OPCVM ](resources/images/list.png)
+![List OPCVM ](resources/images/.png)
 ![List OPCVM ](resources/images/Chart.png)
 
 
