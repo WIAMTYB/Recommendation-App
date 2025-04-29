@@ -14,6 +14,6 @@ Voici un aperçu de l’application en action :
 ![Registration page ](resources/images/registration.png)
 ![Login page ](resources/images/login.png)
 ![List OPCVM ](resources/images/list.png)
-![List OPCVM ](resources/images/chart.png)
+![List OPCVM ](resources/images/Chart.png)
 
 
