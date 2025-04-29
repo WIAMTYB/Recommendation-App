@@ -1,20 +1,19 @@
-# Titre Project
-Une simple application pour recommendation des opcvm 
-## Fonctionnalités
+## 🌟 Description
+Ce projet est une application qui permet de recommander des OPCVM aux clients selon leurs rendements avec une interface intuitive et moderne.
 
-- Espace client
-- Devenir client
-- Visualiser les marchés
+## 🎯 Fonctionnalités
+✔️ Registration
+✔️ Login
+✔️ Consulter les differents OPCVM 
+✔️ Visualiser les renedements annuels 
 
-## Aperçu du projet
+## 📸 Aperçu
+Voici un aperçu de l’application en action :
 
-Voici un aperçu de l'application :
-
-![Logo de l'application](resources/images/logo.png)
-![Logo de l'application](resources/images/logo.png)
-![Logo de l'application](resources/images/logo.png)
-![Logo de l'application](resources/images/logo.png) 
-![Logo de l'application](resources/images/logo.png) 
+![Home page ](resources/images/home.png)
+![Registration page ](resources/images/registration.png)
+![Login page ](resources/images/login.png)
+![List OPCVM ](resources/images/list of OPCVMs.png)
+![List OPCVM ](resources/images/chart.png)
 
 
-Merci d'avoir consulté !
